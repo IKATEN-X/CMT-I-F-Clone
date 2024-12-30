@@ -45,5 +45,6 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image4.jpg?raw=true" width="300">  
   
 ## 作成方法  
-ガーバーデータのZIPファイルを用意しています。これをJLCPCBにアップロードすれば、そのまま基板を製造可能です。また、回路がそれほど複雑ではないため、ブレッドボードで試作することもできます。  
+ガーバーデータのZIPファイルを用意しています。これをJLCPCBにアップロードすれば、そのまま基板を製造可能です。  
+また、回路がそれほど複雑ではないため、ブレッドボードで試作することもできます。  
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image5.jpg?raw=true" width="300">  
