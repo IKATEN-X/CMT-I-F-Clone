@@ -7,8 +7,8 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 作成に当たり、部品を集めていたところ、トランジスタのBC550/BC547が手に入りずらいので2SC1815Lで、5Vリレーが5端子のもののところ6端子のモノを買ってしまったのでそれで組み替えています。  
 下の図が、組み替えた回路図です。  
 (初めて使ったFriztingで作った回路図で、コネクタが変ですがご勘弁ください）  
-<img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image2.jpg" width="300">  
-
+<img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image2.jpg" width="300">
+<img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image3.jpg?raw=true" width="300">  
 | 記号  | 容量・サイズ・数 |
 | ------------- | ------------- |
 | R1  | 6.8kΩ |
@@ -26,6 +26,6 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 |タッピングビス 3×5| 4本 |
 
 　　
-<img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image3.jpg?raw=true" width="300">  
+
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image4.jpg?raw=true" width="300">  
 
