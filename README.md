@@ -13,13 +13,12 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 ## 改良点  
 作成時に以下の変更を加えています：  
   
-  1.トランジスタの置き換え  
-BC550/BC547が入手困難だったため、代わりに2SC1815Lを使用しました（BC550はCBEピン配置のため非互換）。  
+  1. トランジスタの置き換え<br>BC550/BC547が入手困難だったため、代わりに2SC1815Lを使用しました（BC550はCBEピン配置のため非互換）。  
   
-  2.リレーの置き換え  
-5端子の5Vリレーが手に入らなかったため、6端子のリレー（N4100HS3 5V）を使用しました。  
+  2. リレーの置き換え<br>5端子の5Vリレーが手に入らなかったため、6端子のリレー（N4100HS3 5V）を使用しました。  
   
-以下は組み替え後の回路図です。初めてFriztingを使用して作成したため、コネクタの配置が不自然な部分がありますがご了承ください。  
+以下は組み替え後の回路図です。  
+初めてFriztingを使用して作成したため、コネクタの配置が不自然な部分がありますがご了承ください。  
 
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image2.jpg" width="300">
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image3.jpg?raw=true" width="300">  
