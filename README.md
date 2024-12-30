@@ -3,7 +3,8 @@ CasioのMSX(MX-10/101/PV-7)用CMTインターフェイスのクローンです
 
 MX-10でテープゲームを楽しみたいと思い、Casio純正のCMTインターフェイスFA-32を入手しようとしました。しかし、オークションでは高額で取引されており、手が出しづらい状況でした。また、既に所有している方の中でも故障が発生している例が見受けられ、自作を検討することにしました。  
   
-調査を進めたところ、以下のサイトで回路図が公開されているのを発見しました： https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html  
+調査を進めたところ、以下のサイトで回路図が公開されているのを発見しました：  
+https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html  
   
 これを参考にし、回路図を解釈して基板を作成しました。  
 
