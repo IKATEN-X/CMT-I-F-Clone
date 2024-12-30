@@ -10,7 +10,7 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image1.jpg" width="300">  
   
-改良点  
+## 改良点  
 作成時に以下の変更を加えています：  
   
 トランジスタの置き換え  
@@ -24,8 +24,7 @@ BC550/BC547が入手困難だったため、代わりに2SC1815Lを使用しま�
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image2.jpg" width="300">
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image3.jpg?raw=true" width="300">  
 
-必要な部品  
-
+## 必要な部品  
 | 記号  | 容量・サイズ・数 |  
 | ------------- | ------------- |  
 | R1  | 6.8kΩ |  
@@ -42,10 +41,10 @@ BC550/BC547が入手困難だったため、代わりに2SC1815Lを使用しま�
 |ケース(72×47.5mm対応) | TB-32-B・TB-32-IV |  
 |タッピングビス 3×5| 4本 |  
   
-ケースについて：  
+## ケースについて：  
 ケースは必須ではありませんが、組み立て時に使用しました。ケースに入れるとサイズが大きくなるため、好みに応じて使用してください。  
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image4.jpg?raw=true" width="300">  
   
-作成方法  
+## 作成方法  
 ガーバーデータのZIPファイルを用意しています。これをJLCPCBにアップロードすれば、そのまま基板を製造可能です。また、回路がそれほど複雑ではないため、ブレッドボードで試作することもできます。  
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image5.jpg?raw=true" width="300">  
