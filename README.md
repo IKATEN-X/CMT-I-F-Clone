@@ -24,8 +24,8 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 | 2.5mmモノラルケーブル | 1本 |
 |ケース(72×47.5mm対応) | TB-32-B・TB-32-IV |
 |タッピングビス 3×5| 4本 |
-
-　　
-
+  
+ケースは必須ではないので、あくまで組み立て時に使用したものです。
+ケースに入れると結構大きくなります。  
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image4.jpg?raw=true" width="300">  
 
