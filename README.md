@@ -13,6 +13,7 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 (初めて使ったFriztingで作った回路図で、コネクタが変ですがご勘弁ください）  
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image2.jpg" width="300">
 <img src="https://github.com/IKATEN-X/CMT-I-F-Clone/blob/main/image3.jpg?raw=true" width="300">  
+
 | 記号  | 容量・サイズ・数 |  
 | ------------- | ------------- |  
 | R1  | 6.8kΩ |  
@@ -22,7 +23,7 @@ https://basshp.blogspot.com/2015/03/casio-fa-32-clone-interface-de-cassete.html
 | C1  | 電解コンデンサ 1μF |  
 | C2  | セラミックコンデンサ 22nF(0.022uF)  |  
 | D1  | 1N4001 |  
-| Q1、Q2  | 2SC1815L (ECB)(BC550だとCBEなのでダメです） |  
+| Q1、Q2  | 2SC1815L (ECB)<br>(BC550だとCBEなのでダメです） |  
 | K2  | N4100HS3 5V |  
 | 3.5mmモノラルケーブル | 2本 |  
 | 2.5mmモノラルケーブル | 1本 |  
